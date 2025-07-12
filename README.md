@@ -21,7 +21,7 @@ Why people love it:
 
 If you’ve ever thought, “There’s gotta be a way to automate that blockchain thing without coding,” ChainPilot is your answer.
 
-## 🚀 Key Features
+## Key Features
 
 - 🧠 Wallet-based automation across EVM & non-EVM chains
 - 🧩 Drag-and-drop flow builder using React Flow
