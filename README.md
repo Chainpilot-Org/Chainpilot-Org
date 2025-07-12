@@ -1,5 +1,7 @@
 # Chainpilot
 
+## About Us
+
 Think of ChainPilot as the Zapier for blockchain folks - but a lot more welcoming. It’s a no-code, drag-and-drop platform that lets you connect on-chain events (like wallet transactions, NFT mints, smart contract actions) to off-chain moves (emails, Discord alerts, webhooks) - without writing a single line of code.
 
 Here’s what you can do in seconds:
@@ -18,3 +20,11 @@ Why people love it:
 - Plug-and-play triggers. From wallets and contracts to Discord, Slack, email, and more.
 
 If you’ve ever thought, “There’s gotta be a way to automate that blockchain thing without coding,” ChainPilot is your answer.
+
+## 🚀 Key Features
+
+- 🧠 Wallet-based automation across EVM & non-EVM chains
+- 🧩 Drag-and-drop flow builder using React Flow
+- 🔄 Webhooks, email, Discord, and smart contract integrations
+- 📡 Real-time gas & token price event tracking
+- 🧰 Built-in support for conditional logic, delays, and fallback actions
