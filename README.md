@@ -28,3 +28,10 @@ If you’ve ever thought, “There’s gotta be a way to automate that blockchai
 - 🔄 Webhooks, email, Discord, and smart contract integrations
 - 📡 Real-time gas & token price event tracking
 - 🧰 Built-in support for conditional logic, delays, and fallback actions
+
+## 📚 Resources
+
+- [Website](https://www.chainpilot.io)
+- [Blog](https://www.chainpilot.io/blog)
+- [Web3Automation Hashnode Blog](https://web3automation.hashnode.dev/)
+- [Awesome Web3 Automation Tools](https://github.com/Chainpilot-Org/awesome-web3-automation-tools)
