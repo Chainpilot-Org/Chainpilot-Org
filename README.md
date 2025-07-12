@@ -29,7 +29,7 @@ If you’ve ever thought, “There’s gotta be a way to automate that blockchai
 - 📡 Real-time gas & token price event tracking
 - 🧰 Built-in support for conditional logic, delays, and fallback actions
 
-## 📚 Resources
+## Resources
 
 - [Website](https://www.chainpilot.io)
 - [Blog](https://www.chainpilot.io/blog)
