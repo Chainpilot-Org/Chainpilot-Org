@@ -1,6 +1,6 @@
 # Chainpilot
 
-Think of ChainPilot as the Zapier for blockchain folks - but a lot more welcoming. It’s a no-code, drag-and-drop platform that lets you connect on-chain events (like wallet transactions, NFT mints, smart contract actions) to off-chain moves (emails, Discord alerts, webhooks)—without writing a single line of code.
+Think of ChainPilot as the Zapier for blockchain folks - but a lot more welcoming. It’s a no-code, drag-and-drop platform that lets you connect on-chain events (like wallet transactions, NFT mints, smart contract actions) to off-chain moves (emails, Discord alerts, webhooks) - without writing a single line of code.
 
 Here’s what you can do in seconds:
 	•	📨 “When my wallet gets ETH, ping me via email.”
